@@ -1,1 +1,0 @@
-# Solar-Power-Plant-Monitoring-System
